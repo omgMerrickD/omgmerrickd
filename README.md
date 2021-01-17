@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Merrick. I've been dabbling with programming off and on since I was a little kid typing in programs written in BASIC into my dad's `Apple ][`, `Commodore 64` and `VIC 20`. 
+
+```BASIC
+10 PRINT "HELLO, WORLD!"
+20 GOTO 10
+RUN
+```
+See? I still got it!
 
 <!--
 **omgMerrickD/omgmerrickd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
